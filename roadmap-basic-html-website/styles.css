@@ -1,0 +1,96 @@
+.border {
+    border: 5px rgb(65, 65, 65) solid;
+    border-style: solid;
+    border-radius: 15px;
+    max-width:1000px;
+    margin: auto;
+    margin-top:20px;
+    padding: 20px; 
+    
+}
+.container {
+    justify-content: right;
+    font-family: Helvetica, Blackletter, Charcoal, sans-serif;
+    display: flex;
+    column-gap: 30px;
+    color:white;
+    background-color: black;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+.HeadCaption {
+    text-align:center;
+    font-size: 300%;
+    font-family: Helvetica, Blackletter, Charcoal, sans-serif;
+    font-weight: bold;
+}
+.pfont {
+    text-align:center;
+    font-size: 150%;
+    font-family: Helvetica, Blackletter, Charcoal, sans-serif;
+    font-weight: bold;
+}
+.p2font {
+    text-align:left;
+    font-size: 150%;
+    font-family: Helvetica, Blackletter, Charcoal, sans-serif;
+    font-weight: bold;
+}
+.p3font {
+    text-align:left;
+    font-size:100%;
+    font-family: Helvetica, Blackletter, Charcoal, sans-serif;
+    font-weight:bold;
+}
+.section {
+    font-family: Helvetica, Blackletter, Charcoal, sans-serif;
+    font-size: 80%;
+    max-width: 500px;
+}
+.mini-border {
+    border: 3.2px solid black;
+    border-style: solid;
+    border-radius: 10px;
+    max-width: 40%;
+    padding-left: 20px;
+}
+.body-container {
+    display: flex;
+    justify-content: left;
+}
+.Contactmini-border {
+    border: 3.2px solid black;
+    border-style: solid;
+    border-radius: 10px;
+
+}
+.Contactp2font {
+    text-align:left;
+    font-size: 150%;
+    font-family: Helvetica, Blackletter, Charcoal, sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+}
+a:visited {
+    color: white;
+    background-color: transparent;
+}
+.linkedinlink:link {
+    color: black;
+    background-color: transparent;
+}
+.linkedinlink:visited {
+    color: black;
+    background-color: transparent;
+}
+
+.center-font {
+    text-align:center;
+    font-size: 150%;
+    font-family: Helvetica, Blackletter, Charcoal, sans-serif;
+    font-weight: bold;
+}
